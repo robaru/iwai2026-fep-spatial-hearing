@@ -1,0 +1,16 @@
+name: iwai2026-fep
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy=2.3
+  - scipy=1.17
+  - pandas=2.3
+  - matplotlib=3.10
+  - joblib=1.5
+  - statsmodels=0.14
+  - tabulate=0.9
+  - pybads=1.0.6
+  - ipykernel
+  - jupyter
+  - nbconvert

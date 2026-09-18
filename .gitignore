@@ -1,0 +1,6 @@
+data/data.mat
+data/data.mat.part
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.log
