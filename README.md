@@ -8,6 +8,8 @@ Sound-localisation learning with visual feedback is modelled as trial-by-trial b
 
 ![Group-average behavioural trajectories: empirical (solid) and model (dashed)](figures/fig_behavioral.png)
 
+![Belief trajectories: lateral precision, polar precision and hemifield weight per listener (thin) and group mean (black)](figures/fig_param_avg.png)
+
 ## Contents
 
 - `MAIN_fep_simulation.ipynb`: model equations, fitting, Figure 3 and the R² values.
