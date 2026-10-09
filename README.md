@@ -14,6 +14,7 @@ Sound-localisation learning with visual feedback is modelled as trial-by-trial b
 
 - `MAIN_fep_simulation.ipynb`: model equations, fitting, Figure 3 and the R² values.
 - `robustness_analysis.ipynb`: held-out model comparison, cos² robustness, bootstrap (Table 1 of the paper). About 20 minutes.
+- `demo_one_listener.py`: step-by-step script for one simulated listener (generative model, belief update, fitting of the learning rates, plot `demo_one_listener.png`). Needs only numpy, scipy and matplotlib; runs in a few seconds.
 - `data/download_data.py`: downloads `data.mat` from the [AMT](https://amtoolbox.org) auxiliary data and checks its checksum.
 - `figures/`: figures as in the paper.
 
