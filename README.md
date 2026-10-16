@@ -4,6 +4,8 @@ Code for the IWAI 2026 extended abstract:
 
 > Barumerli, R., Meyer-Kahlen, N., & Picinali, L. (2026). *Framing Spatial Hearing within the Free Energy Principle: A Hierarchical Model of Perceptual Learning.* International Workshop on Active Inference (IWAI 2026).
 
+The accepted extended abstract is available in this repository: [`IWAI2026_extended_abstract.pdf`](IWAI2026_extended_abstract.pdf). It will soon be available on arXiv; the link will be added here.
+
 Sound-localisation learning with visual feedback is modelled as trial-by-trial belief revision under the free energy principle. Three beliefs are updated by natural-gradient descent: lateral precision, polar precision and hemifield disambiguation. Data: Majdak, Goupell & Laback (2010), manual-pointing group.
 
 ![Group-average behavioural trajectories: empirical (solid) and model (dashed)](figures/fig_behavioral.png)
