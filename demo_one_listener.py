@@ -49,7 +49,7 @@ t_start = time.time()
 # =============================================================================
 # 1. SETTINGS
 # =============================================================================
-rng = np.random.default_rng(9)         # one seed for everything -> reproducible
+rng = np.random.default_rng(11)         # one seed for everything -> reproducible
                                        # (seed 9: fitted learning rates closest to the median over seeds 1-10; see 5b)
 
 N_BASELINE = 100     # baseline trials (no feedback); the notebook uses the last 100
